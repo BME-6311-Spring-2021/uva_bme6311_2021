@@ -12,8 +12,8 @@ At the end you should have a repository with your team's name with 5 files:
 a text file for each member of the team
 this readme file with each of your names.
 
-Team: 
+Team: Breakout Room 8
 
 
-Members of the Team:
+Members of the Team: Olivia DuCharme, Melissa Malette, Reagan Portelance
 
